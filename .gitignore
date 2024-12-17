@@ -1,0 +1,12 @@
+.DS_Store
+.venv
+Mytests/fine_tuned_model/*
+results/
+trainer*
+.DS_Store
+.venv
+.ipynb
+.ipynb*
+trainer*
+foundational_model/*
+foundational_model/
