@@ -5,8 +5,10 @@ results/
 trainer*
 .DS_Store
 .venv
+__pycache__
 .ipynb
 .ipynb*
+*.bin
 trainer*
 foundational_model/*
 foundational_model/
